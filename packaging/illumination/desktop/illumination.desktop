@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Illumination Software Creator
+GenericName=Illumination Software Creator
+Comment=Visual App Creation for Android, iOS, HTML5, PyGTK and Flash
+Exec=illumination %U
+Icon=illumination
+Terminal=false
+Categories=Development;IDE;

@@ -1,0 +1,17 @@
+Source: illumination
+Section: devel
+Priority: extra
+Maintainer: Bob Mottram (4096 bits) <bob@robotics.uk.to>
+Build-Depends: debhelper (>= 9.0.0), build-essential, libc6 (>=2.3), libexpat1 (>=1.95.8), libglib2.0-0 (>=2.2.0), libgtk2.0-0 (>=2.2.0)
+Standards-Version: 3.9.4
+Homepage: http://www.lunduke.com
+
+Package: illumination
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libc6 (>=2.3), libexpat1 (>=1.95.8), libglib2.0-0 (>=2.2.0), libgtk2.0-0 (>=2.2.0)
+Description: Visual App Creation for Android, iOS, HTML5, PyGTK and Flash
+ Illumination Software Creator allows you to quickily (and visually) build
+ apps for Android, iOS, HTML5, Flash and Python/GTK.  Illumination
+ generates raw source code (including XCode and Eclipse project files when
+ necessary) for each platform -- making it an excellent rapid prototyping
+ tool for native apps.
