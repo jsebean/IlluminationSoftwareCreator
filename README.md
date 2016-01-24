@@ -3,7 +3,7 @@ IlluminationSoftwareCreator
 
 Illumination Software Creator
 
-Licensing: Illumination Software Creatoris licensed under the GPLv2 license.
+Licensing: Illumination Software Creator is licensed under the GPLv2 license.
 
 
 
