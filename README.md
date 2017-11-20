@@ -1,6 +1,8 @@
 IlluminationSoftwareCreator
 ===========================
 
+Illumination Software Creator allows you to easily create apps using a drag and drop interface and export it to multiple platforms. It was sold by it's original developer Bryan Lunduke. This is v6 of the software released by Lunduke himself under the GPLv2. Still a valid license since GPL can't be revoked, so here it is folks :)
+
 Illumination Software Creator
 
 Licensing: Illumination Software Creator is licensed under the GPLv2 license.
